@@ -1,0 +1,17 @@
+{"level":"error","message":"App test crash","service":"user-service"}
+{"level":"error","message":"Test promise rejection","service":"user-service"}
+{"level":"error","message":"querySrv ECONNREFUSED _mongodb._tcp.cluster0.zywernh.mongodb.net","service":"user-service"}
+{"level":"error","message":"log is not defined","service":"user-service"}
+{"level":"error","message":"App test crash","service":"user-service"}
+{"level":"error","message":"App test crash","service":"user-service"}
+{"level":"error","message":"App test crash","service":"user-service"}
+{"level":"error","message":"App test crash","service":"user-service"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Course\"","service":"user-service"}
+{"level":"error","message":"Joi.string(...).min(...).maxrequired is not a function","service":"user-service"}
+{"level":"error","message":"limit must be a positive integer or reference","service":"user-service"}
+{"level":"error","message":"Cannot read properties of null (reading 'numberInStock')","service":"user-service"}
+{"level":"error","message":"Cannot read properties of null (reading 'numberInStock')","service":"user-service"}
+{"level":"error","message":"Cannot read properties of null (reading 'numberInStock')","service":"user-service"}
+{"level":"error","message":"Cannot read properties of null (reading 'numberInStock')","service":"user-service"}
+{"level":"error","message":"Cannot read properties of null (reading 'numberInStock')","service":"user-service"}
+{"level":"error","message":"Cannot read properties of null (reading 'numberInStock')","service":"user-service"}
